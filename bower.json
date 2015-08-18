@@ -1,0 +1,20 @@
+{
+  "name": "deploy-npm-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lsv/deploy-npm-test",
+  "authors": [
+    "Martin Aarhof <martin.aarhof@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
